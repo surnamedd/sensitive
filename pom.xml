@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.houbb</groupId>
+    <groupId>com.github.surnamedd</groupId>
     <artifactId>sensitive</artifactId>
     <packaging>pom</packaging>
     <version>0.0.15</version>
@@ -72,18 +72,18 @@
 
             <!--========================= INTER =========================-->
             <dependency>
-                <groupId>com.github.houbb</groupId>
+                <groupId>com.github.surnamedd</groupId>
                 <artifactId>heaven</artifactId>
                 <version>${heaven.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.github.houbb</groupId>
+                <groupId>com.github.surnamedd</groupId>
                 <artifactId>deep-copy-api</artifactId>
                 <version>${deep-copy.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.github.houbb</groupId>
+                <groupId>com.github.surnamedd</groupId>
                 <artifactId>deep-copy-fastjson</artifactId>
                 <version>${deep-copy.version}</version>
             </dependency>
@@ -173,15 +173,15 @@
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/houbb/sensitve</url>
-        <connection>https://github.com/houbb/sensitve.git</connection>
-        <developerConnection>https://houbb.github.io/</developerConnection>
+        <url>https://github.com/surnamedd/sensitve</url>
+        <connection>https://github.com/surnamedd/sensitve.git</connection>
+        <developerConnection>https://surnamedd.github.io/</developerConnection>
     </scm>
     <developers>
         <developer>
-            <name>houbb</name>
-            <email>houbinbin.echo@gmail.com</email>
-            <url>https://houbb.github.io/</url>
+            <name>surnamedd</name>
+            <email>test.com</email>
+            <url>https://surnamedd.github.io/</url>
         </developer>
     </developers>
     <!--============================== ADD For sonatype END ==============================-->
