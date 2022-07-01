@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>sensitive</artifactId>
-        <groupId>com.github.houbb</groupId>
+        <groupId>com.github.surnamedd</groupId>
         <version>0.0.15</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -25,12 +25,12 @@
 
         <!--========================= INTER =========================-->
         <dependency>
-            <groupId>com.github.houbb</groupId>
+            <groupId>com.github.surnamedd</groupId>
             <artifactId>heaven</artifactId>
         </dependency>
 
         <dependency>
-            <groupId>com.github.houbb</groupId>
+            <groupId>com.github.surnamedd</groupId>
             <artifactId>deep-copy-fastjson</artifactId>
         </dependency>
 
