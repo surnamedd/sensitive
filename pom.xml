@@ -63,6 +63,12 @@
                 <artifactId>sensitive-core</artifactId>
                 <version>${project.version}</version>
             </dependency>
+                 
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>sensitive-test</artifactId>
+                <version>${project.version}</version>
+            </dependency>
 
             <!--========================= INTER =========================-->
             <dependency>
