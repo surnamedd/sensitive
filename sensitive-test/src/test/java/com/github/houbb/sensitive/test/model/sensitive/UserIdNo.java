@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.test.model.sensitive;
+package com.github.surnamedd.sensitive.test.model.sensitive;
 
-import com.github.houbb.sensitive.annotation.Sensitive;
-import com.github.houbb.sensitive.core.api.strategory.*;
+import com.github.surnamedd.sensitive.annotation.Sensitive;
+import com.github.surnamedd.sensitive.core.api.strategory.*;
 
 /**
  * @author binbin.hou

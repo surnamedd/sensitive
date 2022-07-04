@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.core.support.config;
+package com.github.surnamedd.sensitive.core.support.config;
 
-import com.github.houbb.deep.copy.api.IDeepCopy;
-import com.github.houbb.sensitive.api.ISensitiveConfig;
+import com.github.surnamedd.deep.copy.api.IDeepCopy;
+import com.github.surnamedd.sensitive.api.ISensitiveConfig;
 
 /**
  * 默认脱敏配置实现

@@ -1,8 +1,8 @@
-package com.github.houbb.sensitive.test.core.sensitive.collection;
+package com.github.surnamedd.sensitive.test.core.sensitive.collection;
 
-import com.github.houbb.sensitive.core.api.SensitiveUtil;
-import com.github.houbb.sensitive.test.core.DataPrepareTest;
-import com.github.houbb.sensitive.test.model.sensitive.User;
+import com.github.surnamedd.sensitive.core.api.SensitiveUtil;
+import com.github.surnamedd.sensitive.test.core.DataPrepareTest;
+import com.github.surnamedd.sensitive.test.model.sensitive.User;
 import org.junit.Assert;
 import org.junit.Test;
 

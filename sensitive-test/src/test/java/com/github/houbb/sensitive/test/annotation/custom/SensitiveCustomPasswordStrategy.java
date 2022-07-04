@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.test.annotation.custom;
+package com.github.surnamedd.sensitive.test.annotation.custom;
 
-import com.github.houbb.sensitive.annotation.metadata.SensitiveStrategy;
-import com.github.houbb.sensitive.test.core.custom.CustomPasswordStrategy;
+import com.github.surnamedd.sensitive.annotation.metadata.SensitiveStrategy;
+import com.github.surnamedd.sensitive.test.core.custom.CustomPasswordStrategy;
 
 import java.lang.annotation.*;
 

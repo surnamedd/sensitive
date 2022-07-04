@@ -1,13 +1,13 @@
-package com.github.houbb.sensitive.core.bs;
+package com.github.surnamedd.sensitive.core.bs;
 
-import com.github.houbb.deep.copy.api.IDeepCopy;
-import com.github.houbb.deep.copy.fastjson.FastJsonDeepCopy;
-import com.github.houbb.heaven.support.instance.impl.Instances;
-import com.github.houbb.heaven.util.common.ArgUtil;
-import com.github.houbb.sensitive.api.ISensitive;
-import com.github.houbb.sensitive.api.ISensitiveConfig;
-import com.github.houbb.sensitive.core.api.SensitiveService;
-import com.github.houbb.sensitive.core.support.config.DefaultSensitiveConfig;
+import com.github.surnamedd.deep.copy.api.IDeepCopy;
+import com.github.surnamedd.deep.copy.fastjson.FastJsonDeepCopy;
+import com.github.surnamedd.heaven.support.instance.impl.Instances;
+import com.github.surnamedd.heaven.util.common.ArgUtil;
+import com.github.surnamedd.sensitive.api.ISensitive;
+import com.github.surnamedd.sensitive.api.ISensitiveConfig;
+import com.github.surnamedd.sensitive.core.api.SensitiveService;
+import com.github.surnamedd.sensitive.core.support.config.DefaultSensitiveConfig;
 
 /**
  * 脱敏引导类

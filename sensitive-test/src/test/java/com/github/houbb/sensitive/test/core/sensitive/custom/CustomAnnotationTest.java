@@ -1,8 +1,8 @@
-package com.github.houbb.sensitive.test.core.sensitive.custom;
+package com.github.surnamedd.sensitive.test.core.sensitive.custom;
 
-import com.github.houbb.sensitive.core.api.SensitiveUtil;
-import com.github.houbb.sensitive.test.model.custom.CustomPasswordEntryModel;
-import com.github.houbb.sensitive.test.model.custom.CustomPasswordModel;
+import com.github.surnamedd.sensitive.core.api.SensitiveUtil;
+import com.github.surnamedd.sensitive.test.model.custom.CustomPasswordEntryModel;
+import com.github.surnamedd.sensitive.test.model.custom.CustomPasswordModel;
 import org.junit.Assert;
 import org.junit.Test;
 

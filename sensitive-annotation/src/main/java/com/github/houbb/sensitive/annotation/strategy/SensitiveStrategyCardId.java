@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.annotation.strategy;
+package com.github.surnamedd.sensitive.annotation.strategy;
 
-import com.github.houbb.sensitive.annotation.metadata.SensitiveStrategy;
-import com.github.houbb.sensitive.api.impl.SensitiveStrategyBuiltIn;
+import com.github.surnamedd.sensitive.annotation.metadata.SensitiveStrategy;
+import com.github.surnamedd.sensitive.api.impl.SensitiveStrategyBuiltIn;
 
 import java.lang.annotation.*;
 

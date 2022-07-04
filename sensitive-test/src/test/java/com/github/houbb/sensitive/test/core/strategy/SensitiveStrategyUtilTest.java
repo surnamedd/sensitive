@@ -1,6 +1,6 @@
-package com.github.houbb.sensitive.test.core.strategy;
+package com.github.surnamedd.sensitive.test.core.strategy;
 
-import com.github.houbb.sensitive.core.util.strategy.SensitiveStrategyUtil;
+import com.github.surnamedd.sensitive.core.util.strategy.SensitiveStrategyUtil;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
-package com.github.houbb.sensitive.test.model.bugs;
+package com.github.surnamedd.sensitive.test.model.bugs;
 
-import com.github.houbb.sensitive.annotation.SensitiveEntry;
+import com.github.surnamedd.sensitive.annotation.SensitiveEntry;
 
 /**
  * @author binbin.hou

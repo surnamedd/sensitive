@@ -1,9 +1,9 @@
-package com.github.houbb.sensitive.test.core.sensitive.entry;
+package com.github.surnamedd.sensitive.test.core.sensitive.entry;
 
 import com.alibaba.fastjson.JSON;
-import com.github.houbb.sensitive.core.api.SensitiveUtil;
-import com.github.houbb.sensitive.test.core.DataPrepareTest;
-import com.github.houbb.sensitive.test.model.sensitive.entry.*;
+import com.github.surnamedd.sensitive.core.api.SensitiveUtil;
+import com.github.surnamedd.sensitive.test.core.DataPrepareTest;
+import com.github.surnamedd.sensitive.test.model.sensitive.entry.*;
 import org.junit.Assert;
 import org.junit.Test;
 

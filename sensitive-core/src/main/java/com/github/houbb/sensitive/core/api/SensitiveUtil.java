@@ -1,8 +1,8 @@
-package com.github.houbb.sensitive.core.api;
+package com.github.surnamedd.sensitive.core.api;
 
-import com.github.houbb.heaven.util.guava.Guavas;
-import com.github.houbb.heaven.util.util.CollectionUtil;
-import com.github.houbb.sensitive.core.bs.SensitiveBs;
+import com.github.surnamedd.heaven.util.guava.Guavas;
+import com.github.surnamedd.heaven.util.util.CollectionUtil;
+import com.github.surnamedd.sensitive.core.bs.SensitiveBs;
 
 import java.util.Collection;
 import java.util.List;
@@ -48,7 +48,7 @@ public final class SensitiveUtil {
      * 脱敏对象集合
      * @param collection 原始集合
      * @param <T> 泛型
-     * @return 脱敏后的对象集合，如果原始对象为 {@link com.github.houbb.heaven.util.util.CollectionUtil#isEmpty(Collection)}，则返回空列表。
+     * @return 脱敏后的对象集合，如果原始对象为 {@link com.github.surnamedd.heaven.util.util.CollectionUtil#isEmpty(Collection)}，则返回空列表。
      * @since 0.0.7
      * @author zhangweihao https://github.com/giantzhang
      * @author binbin.hou
@@ -70,7 +70,7 @@ public final class SensitiveUtil {
     /**
      * 脱敏对象 JSON 集合
      * @param collection 原始集合
-     * @return 脱敏后的对象集合，如果原始对象为 {@link com.github.houbb.heaven.util.util.CollectionUtil#isEmpty(Collection)}，则返回空列表。
+     * @return 脱敏后的对象集合，如果原始对象为 {@link com.github.surnamedd.heaven.util.util.CollectionUtil#isEmpty(Collection)}，则返回空列表。
      * @since 0.0.7
      * @author zhangweihao https://github.com/giantzhang
      * @author binbin.hou

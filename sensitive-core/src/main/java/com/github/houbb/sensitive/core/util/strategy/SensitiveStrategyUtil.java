@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.core.util.strategy;
+package com.github.surnamedd.sensitive.core.util.strategy;
 
-import com.github.houbb.heaven.constant.PunctuationConst;
-import com.github.houbb.heaven.util.lang.StringUtil;
+import com.github.surnamedd.heaven.constant.PunctuationConst;
+import com.github.surnamedd.heaven.util.lang.StringUtil;
 
 /**
  * 脱敏策略工具类

@@ -1,4 +1,4 @@
-package com.github.houbb.sensitive.core.exception;
+package com.github.surnamedd.sensitive.core.exception;
 
 /**
  * 脱敏运行时异常

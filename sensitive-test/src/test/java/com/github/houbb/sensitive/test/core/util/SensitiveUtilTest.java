@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.test.core.util;
+package com.github.surnamedd.sensitive.test.core.util;
 
-import com.github.houbb.sensitive.core.api.SensitiveUtil;
-import com.github.houbb.sensitive.test.model.bugs.Father;
+import com.github.surnamedd.sensitive.core.api.SensitiveUtil;
+import com.github.surnamedd.sensitive.test.model.bugs.Father;
 import org.junit.Test;
 
 /**

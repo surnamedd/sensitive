@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.test.core.custom;
+package com.github.surnamedd.sensitive.test.core.custom;
 
-import com.github.houbb.sensitive.api.IContext;
-import com.github.houbb.sensitive.api.IStrategy;
+import com.github.surnamedd.sensitive.api.IContext;
+import com.github.surnamedd.sensitive.api.IStrategy;
 
 /**
  * @author binbin.hou

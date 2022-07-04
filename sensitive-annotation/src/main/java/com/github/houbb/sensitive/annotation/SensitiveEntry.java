@@ -1,4 +1,4 @@
-package com.github.houbb.sensitive.annotation;
+package com.github.surnamedd.sensitive.annotation;
 
 import java.lang.annotation.*;
 

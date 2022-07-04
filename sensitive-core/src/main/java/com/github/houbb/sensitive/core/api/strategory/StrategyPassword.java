@@ -1,9 +1,9 @@
-package com.github.houbb.sensitive.core.api.strategory;
+package com.github.surnamedd.sensitive.core.api.strategory;
 
-import com.github.houbb.heaven.util.lang.ObjectUtil;
-import com.github.houbb.sensitive.api.IContext;
-import com.github.houbb.sensitive.api.IStrategy;
-import com.github.houbb.sensitive.core.util.strategy.SensitiveStrategyUtil;
+import com.github.surnamedd.heaven.util.lang.ObjectUtil;
+import com.github.surnamedd.sensitive.api.IContext;
+import com.github.surnamedd.sensitive.api.IStrategy;
+import com.github.surnamedd.sensitive.core.util.strategy.SensitiveStrategyUtil;
 
 /**
  * 密码的脱敏策略：

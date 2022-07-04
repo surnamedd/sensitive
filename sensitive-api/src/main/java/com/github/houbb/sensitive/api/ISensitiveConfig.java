@@ -1,6 +1,6 @@
-package com.github.houbb.sensitive.api;
+package com.github.surnamedd.sensitive.api;
 
-import com.github.houbb.deep.copy.api.IDeepCopy;
+import com.github.surnamedd.deep.copy.api.IDeepCopy;
 
 /**
  * 脱敏配置接口

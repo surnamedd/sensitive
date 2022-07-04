@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.test.core.sensitive.condition;
+package com.github.surnamedd.sensitive.test.core.sensitive.condition;
 
-import com.github.houbb.sensitive.core.api.SensitiveUtil;
-import com.github.houbb.sensitive.test.model.condition.SensitiveConditionPassword;
+import com.github.surnamedd.sensitive.core.api.SensitiveUtil;
+import com.github.surnamedd.sensitive.test.model.condition.SensitiveConditionPassword;
 import org.junit.Assert;
 import org.junit.Test;
 

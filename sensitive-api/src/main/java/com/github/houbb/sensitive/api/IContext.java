@@ -1,4 +1,4 @@
-package com.github.houbb.sensitive.api;
+package com.github.surnamedd.sensitive.api;
 
 import java.lang.reflect.Field;
 import java.util.List;

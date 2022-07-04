@@ -1,4 +1,4 @@
 /**
  * 核心代码
  */
-package com.github.houbb.sensitive.core;
+package com.github.surnamedd.sensitive.core;

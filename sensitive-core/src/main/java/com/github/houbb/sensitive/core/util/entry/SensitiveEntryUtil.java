@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.core.util.entry;
+package com.github.surnamedd.sensitive.core.util.entry;
 
-import com.github.houbb.heaven.util.lang.ObjectUtil;
-import com.github.houbb.sensitive.annotation.SensitiveEntry;
+import com.github.surnamedd.heaven.util.lang.ObjectUtil;
+import com.github.surnamedd.sensitive.annotation.SensitiveEntry;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;

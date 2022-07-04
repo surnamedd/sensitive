@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.api.impl;
+package com.github.surnamedd.sensitive.api.impl;
 
-import com.github.houbb.sensitive.api.ICondition;
-import com.github.houbb.sensitive.api.IContext;
+import com.github.surnamedd.sensitive.api.ICondition;
+import com.github.surnamedd.sensitive.api.IContext;
 
 /**
  * 一致返回真的条件

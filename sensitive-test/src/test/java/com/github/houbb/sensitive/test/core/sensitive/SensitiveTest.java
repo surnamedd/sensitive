@@ -1,11 +1,11 @@
-package com.github.houbb.sensitive.test.core.sensitive;
+package com.github.surnamedd.sensitive.test.core.sensitive;
 
-import com.github.houbb.sensitive.api.IStrategy;
-import com.github.houbb.sensitive.core.api.SensitiveUtil;
-import com.github.houbb.sensitive.core.api.strategory.StrategyEmail;
-import com.github.houbb.sensitive.test.core.DataPrepareTest;
-import com.github.houbb.sensitive.test.model.sensitive.User;
-import com.github.houbb.sensitive.test.model.sensitive.UserIdNo;
+import com.github.surnamedd.sensitive.api.IStrategy;
+import com.github.surnamedd.sensitive.core.api.SensitiveUtil;
+import com.github.surnamedd.sensitive.core.api.strategory.StrategyEmail;
+import com.github.surnamedd.sensitive.test.core.DataPrepareTest;
+import com.github.surnamedd.sensitive.test.model.sensitive.User;
+import com.github.surnamedd.sensitive.test.model.sensitive.UserIdNo;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,10 +1,10 @@
-package com.github.houbb.sensitive.test.benchmark;
+package com.github.surnamedd.sensitive.test.benchmark;
 
 import com.alibaba.fastjson.JSON;
-import com.github.houbb.sensitive.core.api.SensitiveUtil;
-import com.github.houbb.sensitive.core.util.strategy.SensitiveStrategyUtil;
-import com.github.houbb.sensitive.test.core.DataPrepareTest;
-import com.github.houbb.sensitive.test.model.sensitive.User;
+import com.github.surnamedd.sensitive.core.api.SensitiveUtil;
+import com.github.surnamedd.sensitive.core.util.strategy.SensitiveStrategyUtil;
+import com.github.surnamedd.sensitive.test.core.DataPrepareTest;
+import com.github.surnamedd.sensitive.test.model.sensitive.User;
 import org.junit.Ignore;
 import org.junit.Test;
 

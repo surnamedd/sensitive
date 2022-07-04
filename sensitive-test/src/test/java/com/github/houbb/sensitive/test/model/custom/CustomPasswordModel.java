@@ -1,8 +1,8 @@
-package com.github.houbb.sensitive.test.model.custom;
+package com.github.surnamedd.sensitive.test.model.custom;
 
-import com.github.houbb.sensitive.annotation.strategy.SensitiveStrategyPassword;
-import com.github.houbb.sensitive.test.annotation.custom.SensitiveCustomPasswordCondition;
-import com.github.houbb.sensitive.test.annotation.custom.SensitiveCustomPasswordStrategy;
+import com.github.surnamedd.sensitive.annotation.strategy.SensitiveStrategyPassword;
+import com.github.surnamedd.sensitive.test.annotation.custom.SensitiveCustomPasswordCondition;
+import com.github.surnamedd.sensitive.test.annotation.custom.SensitiveCustomPasswordStrategy;
 
 /**
  * @author binbin.hou

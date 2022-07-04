@@ -6,10 +6,10 @@
 
 用户也可以基于自己的实际需要，自定义注解。
 
-[![Build Status](https://travis-ci.com/houbb/sensitive.svg?branch=master)](https://travis-ci.com/houbb/sensitive)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.houbb/sensitive/badge.svg)](http://mvnrepository.com/artifact/com.github.houbb/sensitive)
-[![](https://img.shields.io/badge/license-Apache2-FF0080.svg)](https://github.com/houbb/sensitive/blob/master/LICENSE.txt)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/houbb/sensitive)
+[![Build Status](https://travis-ci.com/surnamedd/sensitive.svg?branch=master)](https://travis-ci.com/surnamedd/sensitive)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.surnamedd/sensitive/badge.svg)](http://mvnrepository.com/artifact/com.github.surnamedd/sensitive)
+[![](https://img.shields.io/badge/license-Apache2-FF0080.svg)](https://github.com/surnamedd/sensitive/blob/master/LICENSE.txt)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/surnamedd/sensitive)
 
 > [变更日志](CHANGE_LOG.md)
 
@@ -65,7 +65,7 @@ Maven 3.x
 
 ```xml
 <dependency>
-    <groupId>com.github.houbb</groupId>
+    <groupId>com.github.surnamedd</groupId>
     <artifactId>sensitive-core</artifactId>
     <version>0.0.15</version>
 </dependency>
@@ -822,7 +822,7 @@ public void sensitiveUserCollectionJsonTest() {
 
 如果列表为空，则直接返回空列表。
 
-更多测试代码参见 [SensitiveUtilCollectionTest.java](https://github.com/houbb/sensitive/blob/release_0.0.7/sensitive-test/src/test/java/com/github/houbb/sensitive/test/core/sensitive/collection/SensitiveUtilCollectionTest.java)
+更多测试代码参见 [SensitiveUtilCollectionTest.java](https://github.com/surnamedd/sensitive/blob/release_0.0.7/sensitive-test/src/test/java/com/github/surnamedd/sensitive/test/core/sensitive/collection/SensitiveUtilCollectionTest.java)
 
 ## 集合脱敏-对象拷贝
 
@@ -880,7 +880,7 @@ SensitiveBs.newInstance()
                 .desJson(user);
 ```
 
-参见 [SensitiveBsTest.java](https://github.com/houbb/sensitive/blob/master/sensitive-test/src/test/java/com/github/houbb/sensitive/test/bs/SensitiveBsTest.java)
+参见 [SensitiveBsTest.java](https://github.com/surnamedd/sensitive/blob/master/sensitive-test/src/test/java/com/github/surnamedd/sensitive/test/bs/SensitiveBsTest.java)
 
 deepCopy 用于指定深度复制的具体实现，支持用户自定义。
 
@@ -894,7 +894,7 @@ deepCopy 用于指定深度复制的具体实现，支持用户自定义。
 
 为保证后续良性发展，v0.0.13 版本之后将深度复制接口抽离为单独的项目：
 
-> [deep-copy](https://github.com/houbb/deep-copy)
+> [deep-copy](https://github.com/surnamedd/deep-copy)
 
 ## 内置策略
 
@@ -906,11 +906,11 @@ deepCopy 用于指定深度复制的具体实现，支持用户自定义。
 
 为满足不同场景的需求，深度复制策略支持用户自定义。
 
-> [自定义深度复制](https://github.com/houbb/deep-copy#%E8%87%AA%E5%AE%9A%E4%B9%89)
+> [自定义深度复制](https://github.com/surnamedd/deep-copy#%E8%87%AA%E5%AE%9A%E4%B9%89)
 
 # 需求 & BUGS
 
-> [issues](https://github.com/houbb/sensitive/issues)
+> [issues](https://github.com/surnamedd/sensitive/issues)
 
 # 欢迎加入开发
 

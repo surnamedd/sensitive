@@ -1,8 +1,8 @@
-package com.github.houbb.sensitive.test.model.sensitive.system;
+package com.github.surnamedd.sensitive.test.model.sensitive.system;
 
-import com.github.houbb.sensitive.annotation.Sensitive;
-import com.github.houbb.sensitive.annotation.strategy.*;
-import com.github.houbb.sensitive.core.api.strategory.StrategyIdNo;
+import com.github.surnamedd.sensitive.annotation.Sensitive;
+import com.github.surnamedd.sensitive.annotation.strategy.*;
+import com.github.surnamedd.sensitive.core.api.strategory.StrategyIdNo;
 
 /**
  * 系统内置注解

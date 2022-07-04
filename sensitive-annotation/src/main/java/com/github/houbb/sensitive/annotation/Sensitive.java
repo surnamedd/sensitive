@@ -1,8 +1,8 @@
-package com.github.houbb.sensitive.annotation;
+package com.github.surnamedd.sensitive.annotation;
 
-import com.github.houbb.sensitive.api.ICondition;
-import com.github.houbb.sensitive.api.IStrategy;
-import com.github.houbb.sensitive.api.impl.ConditionAlwaysTrue;
+import com.github.surnamedd.sensitive.api.ICondition;
+import com.github.surnamedd.sensitive.api.IStrategy;
+import com.github.surnamedd.sensitive.api.impl.ConditionAlwaysTrue;
 
 import java.lang.annotation.*;
 

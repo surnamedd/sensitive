@@ -1,1 +1,1 @@
-package com.github.houbb.sensitive.test.model;
+package com.github.surnamedd.sensitive.test.model;

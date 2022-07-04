@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.test.annotation.custom;
+package com.github.surnamedd.sensitive.test.annotation.custom;
 
-import com.github.houbb.sensitive.annotation.metadata.SensitiveCondition;
-import com.github.houbb.sensitive.test.core.condition.ConditionFooPassword;
+import com.github.surnamedd.sensitive.annotation.metadata.SensitiveCondition;
+import com.github.surnamedd.sensitive.test.core.condition.ConditionFooPassword;
 
 import java.lang.annotation.*;
 

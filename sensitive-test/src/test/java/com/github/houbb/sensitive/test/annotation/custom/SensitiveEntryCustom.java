@@ -1,6 +1,6 @@
-package com.github.houbb.sensitive.test.annotation.custom;
+package com.github.surnamedd.sensitive.test.annotation.custom;
 
-import com.github.houbb.sensitive.annotation.SensitiveEntry;
+import com.github.surnamedd.sensitive.annotation.SensitiveEntry;
 
 import java.lang.annotation.*;
 

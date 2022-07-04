@@ -1,7 +1,7 @@
-package com.github.houbb.sensitive.test.model.sensitive.entry;
+package com.github.surnamedd.sensitive.test.model.sensitive.entry;
 
-import com.github.houbb.sensitive.annotation.SensitiveEntry;
-import com.github.houbb.sensitive.test.model.sensitive.User;
+import com.github.surnamedd.sensitive.annotation.SensitiveEntry;
+import com.github.surnamedd.sensitive.test.model.sensitive.User;
 
 import java.util.Collection;
 import java.util.List;

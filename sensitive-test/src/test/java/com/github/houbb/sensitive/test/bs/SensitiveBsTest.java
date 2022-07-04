@@ -1,9 +1,9 @@
-package com.github.houbb.sensitive.test.bs;
+package com.github.surnamedd.sensitive.test.bs;
 
-import com.github.houbb.deep.copy.fastjson.FastJsonDeepCopy;
-import com.github.houbb.sensitive.core.bs.SensitiveBs;
-import com.github.houbb.sensitive.test.core.DataPrepareTest;
-import com.github.houbb.sensitive.test.model.sensitive.User;
+import com.github.surnamedd.deep.copy.fastjson.FastJsonDeepCopy;
+import com.github.surnamedd.sensitive.core.bs.SensitiveBs;
+import com.github.surnamedd.sensitive.test.core.DataPrepareTest;
+import com.github.surnamedd.sensitive.test.model.sensitive.User;
 import org.junit.Assert;
 import org.junit.Test;
 

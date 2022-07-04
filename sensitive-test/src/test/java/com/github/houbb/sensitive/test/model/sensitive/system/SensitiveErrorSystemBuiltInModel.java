@@ -1,6 +1,6 @@
-package com.github.houbb.sensitive.test.model.sensitive.system;
+package com.github.surnamedd.sensitive.test.model.sensitive.system;
 
-import com.github.houbb.sensitive.test.annotation.SensitiveErrorSystemBuiltIn;
+import com.github.surnamedd.sensitive.test.annotation.SensitiveErrorSystemBuiltIn;
 
 /**
  * 模拟错误的注解使用

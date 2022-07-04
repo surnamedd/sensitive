@@ -1,8 +1,8 @@
-package com.github.houbb.sensitive.test.model.sensitive.entry;
+package com.github.surnamedd.sensitive.test.model.sensitive.entry;
 
-import com.github.houbb.sensitive.annotation.Sensitive;
-import com.github.houbb.sensitive.annotation.SensitiveEntry;
-import com.github.houbb.sensitive.core.api.strategory.StrategyChineseName;
+import com.github.surnamedd.sensitive.annotation.Sensitive;
+import com.github.surnamedd.sensitive.annotation.SensitiveEntry;
+import com.github.surnamedd.sensitive.core.api.strategory.StrategyChineseName;
 
 import java.util.Arrays;
 import java.util.List;

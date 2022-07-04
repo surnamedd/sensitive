@@ -1,6 +1,6 @@
-package com.github.houbb.sensitive.annotation.metadata;
+package com.github.surnamedd.sensitive.annotation.metadata;
 
-import com.github.houbb.sensitive.api.ICondition;
+import com.github.surnamedd.sensitive.api.ICondition;
 
 import java.lang.annotation.*;
 

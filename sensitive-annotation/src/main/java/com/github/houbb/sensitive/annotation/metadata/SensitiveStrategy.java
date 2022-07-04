@@ -1,6 +1,6 @@
-package com.github.houbb.sensitive.annotation.metadata;
+package com.github.surnamedd.sensitive.annotation.metadata;
 
-import com.github.houbb.sensitive.api.IStrategy;
+import com.github.surnamedd.sensitive.api.IStrategy;
 
 import java.lang.annotation.*;
 

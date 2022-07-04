@@ -1,8 +1,8 @@
-package com.github.houbb.sensitive.test.model.condition;
+package com.github.surnamedd.sensitive.test.model.condition;
 
-import com.github.houbb.sensitive.annotation.Sensitive;
-import com.github.houbb.sensitive.core.api.strategory.*;
-import com.github.houbb.sensitive.test.core.condition.ConditionFooPassword;
+import com.github.surnamedd.sensitive.annotation.Sensitive;
+import com.github.surnamedd.sensitive.core.api.strategory.*;
+import com.github.surnamedd.sensitive.test.core.condition.ConditionFooPassword;
 
 /**
  * @author binbin.hou

@@ -1,8 +1,8 @@
-package com.github.houbb.sensitive.test.model.sensitive.system;
+package com.github.surnamedd.sensitive.test.model.sensitive.system;
 
-import com.github.houbb.sensitive.annotation.Sensitive;
-import com.github.houbb.sensitive.annotation.strategy.SensitiveStrategyChineseName;
-import com.github.houbb.sensitive.core.api.strategory.StrategyPassword;
+import com.github.surnamedd.sensitive.annotation.Sensitive;
+import com.github.surnamedd.sensitive.annotation.strategy.SensitiveStrategyChineseName;
+import com.github.surnamedd.sensitive.core.api.strategory.StrategyPassword;
 
 /**
  * 系统内置+Sensitive注解混合模式
